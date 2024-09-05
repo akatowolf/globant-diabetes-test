@@ -1,0 +1,2 @@
+model_name: diabetes_xgboost
+model_version: '1'

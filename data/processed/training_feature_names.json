@@ -1,0 +1,16 @@
+{
+    "training_features": [
+        "time_in_hospital", "num_lab_procedures", "num_procedures", "num_medications", "number_diagnoses", "max_glu_serum", 
+        "A1Cresult", "metformin", "repaglinide", "nateglinide", "chlorpropamide", "glimepiride", "acetohexamide", 
+        "glipizide", "glyburide", "tolbutamide", "pioglitazone", "rosiglitazone", "acarbose", "miglitol", "troglitazone", 
+        "tolazamide", "insulin", "glyburidemetformin", "glipizidemetformin", "glimepiridepioglitazone", 
+        "metforminrosiglitazone", "metforminpioglitazone", "change", "diabetesMed", "med_changes", "total_services", 
+        "race_Caucasian", "race_Other", "gender_Female", "gender_Male", "gender_UnknownInvalid", "age_010", "age_1020", 
+        "age_2030", "age_3040", "age_4050", "age_5060", "age_6070", "age_7080", "age_8090", "age_90100", 
+        "admission_type_id_Elective", "admission_type_id_Emergency", "admission_type_id_Other_admi", 
+        "admission_type_id_Urgent", "discharge_disposition_id_Expired", "discharge_disposition_id_Other", 
+        "discharge_disposition_id_SentHome", "discharge_disposition_id_Transferred", "admission_source_id_Emergency", 
+        "admission_source_id_HospitalTransfer", "admission_source_id_Other", "admission_source_id_Referral", 
+        "diag_1_Diabetes", "diag_1_Heart", "diag_1_Hypertension", "diag_1_Others", "diag_2_Diabetes", "diag_2_Heart", 
+        "diag_2_Hypertension", "diag_2_Others", "diag_3_Diabetes", "diag_3_Heart", "diag_3_Hypertension", "diag_3_Others"
+    ]}
