@@ -6,7 +6,7 @@ tabulate==0.5
 # Machine learning
 scikit-learn==1.3.2
 xgboost==2.1.1
-catboost==1.2.2  # Adding CatBoost for your requirements
+catboost==1.2.2
 
 # Data visualization
 matplotlib==3.8.0
@@ -15,8 +15,7 @@ seaborn==0.13.2
 # Web framework
 flask==3.0.3
 
-# Model tracking and experimentation
+# Model tracking
 mlflow==2.13.1
 
-# Deep learning (for neural networks)
-torch==2.0.1  # PyTorch for neural networks, if needed
+torch==2.0.1 
